@@ -1,6 +1,6 @@
 # assignment_1
 
-A new Flutter project.
+First assignment of the flutter course (Module 1).
 
 ## Getting Started
 
